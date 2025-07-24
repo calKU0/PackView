@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackViewApp", "PackViewApp\PackViewApp.csproj", "{D75470AB-E542-4E0A-AD4F-7F54642AA278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydraPackView", "HydraPackView\HydraPackView.csproj", "{E27CC94A-D7CB-480F-A799-EA7F5CC3DC23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75470AB-E542-4E0A-AD4F-7F54642AA278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75470AB-E542-4E0A-AD4F-7F54642AA278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75470AB-E542-4E0A-AD4F-7F54642AA278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75470AB-E542-4E0A-AD4F-7F54642AA278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27CC94A-D7CB-480F-A799-EA7F5CC3DC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27CC94A-D7CB-480F-A799-EA7F5CC3DC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27CC94A-D7CB-480F-A799-EA7F5CC3DC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27CC94A-D7CB-480F-A799-EA7F5CC3DC23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07820ACB-7028-4DD8-BA91-515C4FDB3DB2}
+	EndGlobalSection
+EndGlobal
