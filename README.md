@@ -1,5 +1,7 @@
 # PackView
 
+> 💼 **Commercial Project** — part of a private or client-facing initiative.
+
 **PackView** is a .NET WPF application designed to monitor and display video footage from document packing processes. It visualizes product-level packaging events by retrieving and presenting camera recordings from specific packing stations, paired with product and operator metadata.
 
 ## Features
